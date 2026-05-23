@@ -1,10 +1,8 @@
 # École Polytechnique Entrance Exam Support
 
-This is a community support space for candidates preparing for the **École Polytechnique International Entrance Exam**, especially the *Filière Universitaire Internationale (FUI)*.
+This is a community support space for candidates preparing for the **École Polytechnique International Entrance Exam**, especially the **Filière Universitaire Internationale (FUI)**.
 
-It is maintained by the **Association des Polytechniciens Khmers (AXK)** to help cambodian candidates understand the exam, organize their preparation, share resources, and discuss mathematics, physics, application requirements, and oral examinations.
-
-> **Important note:** This is an unofficial community project. For official and updated information, candidates must always consult the official École Polytechnique website.
+It is maintained by the **Association des Polytechniciens Khmers (AXK)** to help Cambodian candidates understand the exam, organize their preparation, share resources, and discuss mathematics, physics, application requirements, and oral examinations.
 
 ---
 
@@ -13,7 +11,7 @@ It is maintained by the **Association des Polytechniciens Khmers (AXK)** to help
 - **GitHub Discussions:**  
   <https://github.com/axkh/concours-polytechnique-supports/discussions>
 
-- **Document prepared by AXK**
+- **Support document prepared by AXK**
 [FUI 2027 Preparation PDF](summaries/fui-2027-preparation-summary.pdf)
 - **Official FUI webpage:**  
   <https://www.polytechnique.edu/admission-cycle-ingenieur/fui>
@@ -28,7 +26,7 @@ It is maintained by the **Association des Polytechniciens Khmers (AXK)** to help
 
 ## Purpose of this project
 
-The goal of this repository is to provide a long-term preparation and discussion platform for future candidates.
+The goal is to provide a long-term preparation and discussion platform for future Cambodian candidates.
 
 This project aims to:
 
@@ -106,9 +104,11 @@ Write the topic of your question.
 ### Question
 
 Explain clearly what you want to know.
+```
 
 Optionals:
 
+```markdown
 ### What I already checked
 
 Mention the official notice, book, lecture note, exercise, or discussion you already looked at.
@@ -119,7 +119,7 @@ Explain the specific difficulty.
 
 ### Screenshot or reference
 
-Add a screenshot, link, page number, or formula if useful. Maths and Pyshics, Latex form is prefered. 
+Add a screenshot, link, page number, or formula if useful. Maths and Pyshics, Latex form is prefered.
 ```
 
 ## Official information
