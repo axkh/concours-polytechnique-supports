@@ -12,7 +12,7 @@ It is maintained by the **Association des Polytechniciens Khmers (AXK)** to help
   <https://github.com/axkh/concours-polytechnique-supports/discussions>
 
 - **Support document prepared by AXK**
-[FUI 2027 Preparation PDF](summaries/fui-2027-preparation-summary.pdf)
+[FUI 2027 Preparation PDF](notices/fui-2027-preparation.pdf)
 - **Official FUI webpage:**  
   <https://www.polytechnique.edu/admission-cycle-ingenieur/fui>
 
@@ -40,7 +40,7 @@ This project aims to:
 
 The main preparation document organizes the official information and recommended background knowledge into a clean study guide.
 
-[FUI 2027 Preparation PDF](summaries/fui-2027-preparation-summary.pdf)
+[FUI 2027 Preparation PDF](notices/fui-2027-preparation.pdf)
 
 ---
 
